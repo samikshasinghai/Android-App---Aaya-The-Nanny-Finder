@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
     SQLiteDatabase db;
     DBHelper myDbHelper;
 
-    public static final String ACCOUNT_SID = "AC3a977c4530d1b6db66055c5442debfd9";
-    public static final String AUTH_TOKEN = "8a9a5863c501b899f98fd85f30a118f0";
+    public static final String ACCOUNT_SID = "Twilio API ACCOUNT_SID";
+    public static final String AUTH_TOKEN = "Twilio API AUTH_TOKEN";
 
 
 
