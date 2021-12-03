@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211494647916",
+    "project_id": "final-project-eae1a",
+    "storage_bucket": "final-project-eae1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211494647916:android:a176014bd4f155c3f7c049",
+        "android_client_info": {
+          "package_name": "edu.oakland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211494647916-q4b46lga2kmknvg36c7t9tpdkvc8k0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hDEimYyfmGFrNTfdKERa7o5gqT3gQ_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211494647916-q4b46lga2kmknvg36c7t9tpdkvc8k0g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

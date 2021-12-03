@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_marginBottom="10dp"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:elevation="12dp"
+            android:id="@+id/view3"
+            android:layout_centerHorizontal="true"
+            app:cardCornerRadius="30dp"
+            android:backgroundTint="@color/black"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:elevation="12dp"
+                android:id="@+id/view2"
+                android:layout_centerHorizontal="true"
+                app:cardCornerRadius="30dp"
+                android:layout_marginLeft="2.5dp"
+                android:layout_marginTop="2.5dp"
+                >
+
+
+                    <ImageView
+                        android:layout_height="match_parent"
+                        android:layout_width="match_parent"
+                        android:id="@+id/nannyImg"
+                        android:scaleType="fitXY"
+                        android:focusable="false"
+                        android:adjustViewBounds="true"
+                        />
+            </androidx.cardview.widget.CardView>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:focusable="false"
+            android:id="@+id/nannyUID"
+            android:visibility="gone"
+            android:text="0"/>
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:focusable="false"
+                android:text="name"
+                android:id="@+id/nannyName"
+                android:textColor="#000"
+                android:textSize="24dp"/>
+
+            <RatingBar
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:focusable="false"
+                android:id="@+id/nannyRating"
+                style="?android:attr/ratingBarStyleSmall"
+                android:theme="@style/RatingBar"
+                android:rating="3" android:numStars="5"/>
+
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content">
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:focusable="false"
+                    android:id="@+id/nannyLoc"
+                    android:textColor="#000"
+                    android:text="location"
+                    android:textSize="16dp"/>
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:focusable="false"
+                    android:id="@+id/nannyComma"
+                    android:text=", "
+                    android:textColor="#000"
+                    android:textSize="16dp"/>
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:focusable="false"
+                    android:id="@+id/nannyState"
+                    android:text="MI"
+                    android:textColor="#000"
+                    android:textSize="16dp"/>
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:focusable="false"
+                    android:id="@+id/nannySep"
+                    android:text=" | "
+                    android:textColor="#000"
+                    android:textSize="16dp"/>
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:focusable="false"
+                    android:id="@+id/nannyExp"
+                    android:text="experience"
+                    android:textColor="#000"
+                    android:textSize="16dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style parent="TextAppearance.AppCompat" name="textStyleHeader">
+
+        <item name="android:textSize">22sp</item>
+
+        <item name="android:color">@android:color/black</item>
+
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style parent="TextAppearance.AppCompat" name="textStyleHeading">
+
+        <item name="android:textSize">20sp</item>
+
+        <item name="android:color">@android:color/black</item>
+
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style parent="TextAppearance.AppCompat" name="textStyleBody">
+
+        <item name="android:textSize">18sp</item>
+
+        <item name="android:color">@android:color/black</item>
+
+    </style>
+
+    <style parent="TextAppearance.AppCompat" name="btnTextStyle">
+
+        <item name="android:textSize">18sp</item>
+
+        <item name="android:textColor">@android:color/white</item>
+
+        <item name="android:textAllCaps">false</item>
+
+    </style>
+
+    <style parent="TextAppearance.AppCompat" name="cb_rb_TextStyle">
+
+        <item name="android:textSize">18sp</item>
+
+        <item name="android:textColor">@android:color/black</item>
+
+    </style>
+
+    <style parent="Theme.AppCompat" name="cbStyle">
+
+        <item name="colorAccent">#85C1E9</item>
+
+        <item name="android:textColorSecondary">#FFFFFF</item>
+
+        <item name="android:textColor">@android:color/black</item>
+
+    </style>
+
+    <style parent="Theme.AppCompat" name="rbStyle">
+
+        <item name="colorAccent">#85C1E9</item>
+
+        <item name="android:textColorSecondary">#FFFFFF</item>
+
+        <item name="android:textColor">@android:color/black</item>
+
+    </style>
+
+
+</resources>

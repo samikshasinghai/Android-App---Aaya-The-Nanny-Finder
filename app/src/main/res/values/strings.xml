@@ -1,0 +1,1176 @@
+<resources>
+    <string name="app_name">Final_Project</string>
+    <string-array name="zip_City">
+        <item>48266|Detroit</item>
+        <item>48815|Clarksville</item>
+        <item>48444|Imlay City</item>
+        <item>48890|Sunfield</item>
+        <item>48070|Huntington Woods</item>
+        <item>48141|Inkster</item>
+        <item>49111|Eau Claire</item>
+        <item>49960|Rockland</item>
+        <item>49911|Bessemer</item>
+        <item>49406|Douglas</item>
+        <item>48437|Genesee</item>
+        <item>49782|Beaver Island</item>
+        <item>48323|West Bloomfield</item>
+        <item>48841|Henderson</item>
+        <item>48229|Ecorse</item>
+        <item>49733|Frederic</item>
+        <item>49452|Rothbury</item>
+        <item>48203|Highland Park</item>
+        <item>49344|Shelbyville</item>
+        <item>48109|Ann Arbor</item>
+        <item>49650|Lake Ann</item>
+        <item>48726|Cass City</item>
+        <item>48313|Sterling Heights</item>
+        <item>48154|Livonia</item>
+        <item>48655|Saint Charles</item>
+        <item>48887|Smyrna</item>
+        <item>48812|Cedar Lake</item>
+        <item>49357|Ada</item>
+        <item>49506|Grand Rapids</item>
+        <item>49320|Chippewa Lake</item>
+        <item>48162|Monroe</item>
+        <item>48601|Saginaw</item>
+        <item>49920|Crystal Falls</item>
+        <item>48130|Dexter</item>
+        <item>48260|Detroit</item>
+        <item>49428|Jenison</item>
+        <item>49934|Hubbell</item>
+        <item>49046|Delton</item>
+        <item>48848|Laingsburg</item>
+        <item>48729|Deford</item>
+        <item>49959|Ramsay</item>
+        <item>49685|Traverse City</item>
+        <item>48636|Luzerne</item>
+        <item>48652|Rhodes</item>
+        <item>48637|Merrill</item>
+        <item>48383|White Lake</item>
+        <item>49664|Maple City</item>
+        <item>49272|Pleasant Lake</item>
+        <item>48627|Higgins Lake</item>
+        <item>48463|Otisville</item>
+        <item>48048|New Haven</item>
+        <item>49463|Wabaningo</item>
+        <item>48089|Warren</item>
+        <item>48422|Croswell</item>
+        <item>48118|Chelsea</item>
+        <item>48441|Harbor Beach</item>
+        <item>49925|Ewen</item>
+        <item>48845|Hubbardston</item>
+        <item>49958|Pelkie</item>
+        <item>48134|Flat Rock</item>
+        <item>48844|Howell</item>
+        <item>49560|Grand Rapids</item>
+        <item>49614|Bear Lake</item>
+        <item>48228|Detroit</item>
+        <item>49408|Fennville</item>
+        <item>48850|Lakeview</item>
+        <item>48480|Grand Blanc</item>
+        <item>49251|Leslie</item>
+        <item>49259|Munith</item>
+        <item>48909|Lansing</item>
+        <item>48893|Weidman</item>
+        <item>48038|Clinton Township</item>
+        <item>49202|Jackson</item>
+        <item>48064|Casco</item>
+        <item>49968|Wakefield</item>
+        <item>48123|Dearborn</item>
+        <item>49095|Vandalia</item>
+        <item>48602|Saginaw</item>
+        <item>48852|Mcbrides</item>
+        <item>49710|Barbeau</item>
+        <item>48001|Algonac</item>
+        <item>49845|Harris</item>
+        <item>48559|Flint</item>
+        <item>49887|Stephenson</item>
+        <item>49437|Montague</item>
+        <item>49343|Sand Lake</item>
+        <item>48733|Fairgrove</item>
+        <item>49067|Marcellus</item>
+        <item>49430|Lamont</item>
+        <item>48139|Hamburg</item>
+        <item>48376|Novi</item>
+        <item>48813|Charlotte</item>
+        <item>49224|Albion</item>
+        <item>49627|Eastport</item>
+        <item>49252|Litchfield</item>
+        <item>48045|Harrison Township</item>
+        <item>49029|Burlington</item>
+        <item>48835|Fowler</item>
+        <item>48224|Detroit</item>
+        <item>48609|Saginaw</item>
+        <item>49625|Copemish</item>
+        <item>48608|Saginaw</item>
+        <item>48507|Flint</item>
+        <item>49232|Camden</item>
+        <item>48855|Howell</item>
+        <item>48006|Avoca</item>
+        <item>48060|Port Huron</item>
+        <item>49706|Alanson</item>
+        <item>48706|Bay City</item>
+        <item>49342|Rodney</item>
+        <item>49805|Allouez</item>
+        <item>48061|Port Huron</item>
+        <item>49884|Shingleton</item>
+        <item>49412|Fremont</item>
+        <item>49908|Baraga</item>
+        <item>48610|Alger</item>
+        <item>48557|Flint</item>
+        <item>48063|Columbus</item>
+        <item>49247|Hudson</item>
+        <item>48739|Hale</item>
+        <item>48391|Walled Lake</item>
+        <item>48084|Troy</item>
+        <item>49918|Copper Harbor</item>
+        <item>48146|Lincoln Park</item>
+        <item>48701|Akron</item>
+        <item>48208|Detroit</item>
+        <item>49746|Hillman</item>
+        <item>48630|Houghton Lake Heights</item>
+        <item>48763|Tawas City</item>
+        <item>49351|Rockford</item>
+        <item>48723|Caro</item>
+        <item>48462|Ortonville</item>
+        <item>49638|Harrietta</item>
+        <item>49546|Grand Rapids</item>
+        <item>49035|Cloverdale</item>
+        <item>49201|Jackson</item>
+        <item>49730|Elmira</item>
+        <item>48114|Brighton</item>
+        <item>48748|National City</item>
+        <item>48204|Detroit</item>
+        <item>48553|Flint</item>
+        <item>48616|Chesaning</item>
+        <item>48742|Lincoln</item>
+        <item>49057|Hartford</item>
+        <item>48236|Grosse Pointe</item>
+        <item>48453|Marlette</item>
+        <item>48158|Manchester</item>
+        <item>48325|West Bloomfield</item>
+        <item>48770|Whittemore</item>
+        <item>49121|Niles</item>
+        <item>48035|Clinton Township</item>
+        <item>49964|Stambaugh</item>
+        <item>48659|Sterling</item>
+        <item>49930|Hancock</item>
+        <item>48235|Detroit</item>
+        <item>49234|Clarklake</item>
+        <item>48857|Morrice</item>
+        <item>48326|Auburn Hills</item>
+        <item>49814|Champion</item>
+        <item>49073|Nashville</item>
+        <item>48173|Rockwood</item>
+        <item>49461|Whitehall</item>
+        <item>48210|Detroit</item>
+        <item>48476|Vernon</item>
+        <item>49501|Grand Rapids</item>
+        <item>49724|Dafter</item>
+        <item>49938|Ironwood</item>
+        <item>49745|Hessel</item>
+        <item>48192|Wyandotte</item>
+        <item>48843|Howell</item>
+        <item>48165|New Hudson</item>
+        <item>48334|Farmington</item>
+        <item>49312|Brohman</item>
+        <item>48017|Clawson</item>
+        <item>48375|Novi</item>
+        <item>49806|Au Train</item>
+        <item>48004|Anchorville</item>
+        <item>48412|Attica</item>
+        <item>48640|Midland</item>
+        <item>48759|Sebewaing</item>
+        <item>48076|Southfield</item>
+        <item>48838|Greenville</item>
+        <item>48115|Bridgewater</item>
+        <item>49634|Filer City</item>
+        <item>48347|Clarkston</item>
+        <item>48026|Fraser</item>
+        <item>48647|Mio</item>
+        <item>49865|National Mine</item>
+        <item>48895|Williamston</item>
+        <item>49507|Grand Rapids</item>
+        <item>49053|Galesburg</item>
+        <item>48027|Goodells</item>
+        <item>48097|Yale</item>
+        <item>48150|Livonia</item>
+        <item>49716|Brutus</item>
+        <item>48924|Lansing</item>
+        <item>48734|Frankenmuth</item>
+        <item>49801|Iron Mountain</item>
+        <item>49861|Michigamme</item>
+        <item>48233|Detroit</item>
+        <item>48670|Midland</item>
+        <item>48312|Sterling Heights</item>
+        <item>48051|New Baltimore</item>
+        <item>48066|Roseville</item>
+        <item>49790|Strongs</item>
+        <item>49113|Galien</item>
+        <item>48342|Pontiac</item>
+        <item>48826|East Lansing</item>
+        <item>48853|Maple Rapids</item>
+        <item>48906|Lansing</item>
+        <item>48304|Bloomfield Hills</item>
+        <item>48028|Harsens Island</item>
+        <item>48805|Okemos</item>
+        <item>48243|Detroit</item>
+        <item>48107|Ann Arbor</item>
+        <item>49613|Arcadia</item>
+        <item>48650|Pinconning</item>
+        <item>48811|Carson City</item>
+        <item>49436|Mears</item>
+        <item>49717|Burt Lake</item>
+        <item>49768|Paradise</item>
+        <item>49952|Nisula</item>
+        <item>49788|Kincheloe</item>
+        <item>49659|Mancelona</item>
+        <item>48419|Carsonville</item>
+        <item>48532|Flint</item>
+        <item>48471|Sandusky</item>
+        <item>49707|Alpena</item>
+        <item>49519|Wyoming</item>
+        <item>48331|Farmington</item>
+        <item>48022|Emmett</item>
+        <item>49448|Nunica</item>
+        <item>49246|Horton</item>
+        <item>48101|Allen Park</item>
+        <item>48912|Lansing</item>
+        <item>48370|Oxford</item>
+        <item>49701|Mackinaw City</item>
+        <item>48884|Sheridan</item>
+        <item>49665|Marion</item>
+        <item>48322|West Bloomfield</item>
+        <item>49081|Portage</item>
+        <item>48108|Ann Arbor</item>
+        <item>48808|Bath</item>
+        <item>48802|Alma</item>
+        <item>48237|Oak Park</item>
+        <item>49931|Houghton</item>
+        <item>49757|Mackinac Island</item>
+        <item>48951|Lansing</item>
+        <item>48864|Okemos</item>
+        <item>49258|Mosherville</item>
+        <item>49460|West Olive</item>
+        <item>48720|Bay Port</item>
+        <item>48044|Macomb</item>
+        <item>49286|Tecumseh</item>
+        <item>49263|Norvell</item>
+        <item>49821|Daggett</item>
+        <item>48005|Armada</item>
+        <item>49688|Tustin</item>
+        <item>49347|Trufant</item>
+        <item>49530|Grand Rapids</item>
+        <item>48411|Atlas</item>
+        <item>48350|Davisburg</item>
+        <item>48079|Saint Clair</item>
+        <item>49277|Rives Junction</item>
+        <item>49328|Hopkins</item>
+        <item>48756|Prescott</item>
+        <item>49329|Howard City</item>
+        <item>48136|Garden City</item>
+        <item>49514|Grand Rapids</item>
+        <item>48361|Lake Orion</item>
+        <item>49713|Boyne Falls</item>
+        <item>48003|Almont</item>
+        <item>49815|Channing</item>
+        <item>49655|Leroy</item>
+        <item>48306|Rochester</item>
+        <item>49756|Lewiston</item>
+        <item>48871|Perrinton</item>
+        <item>49305|Barryton</item>
+        <item>49836|Germfask</item>
+        <item>48113|Ann Arbor</item>
+        <item>48619|Comins</item>
+        <item>49766|Ossineke</item>
+        <item>49125|Sawyer</item>
+        <item>48157|Luna Pier</item>
+        <item>48840|Haslett</item>
+        <item>48837|Grand Ledge</item>
+        <item>49285|Stockbridge</item>
+        <item>49011|Athens</item>
+        <item>49274|Reading</item>
+        <item>48327|Waterford</item>
+        <item>49262|North Adams</item>
+        <item>49031|Cassopolis</item>
+        <item>48910|Lansing</item>
+        <item>49502|Grand Rapids</item>
+        <item>49752|Kinross</item>
+        <item>49891|Trenary</item>
+        <item>48466|Peck</item>
+        <item>48043|Mount Clemens</item>
+        <item>49858|Menominee</item>
+        <item>49642|Idlewild</item>
+        <item>49748|Hulbert</item>
+        <item>48764|Tawas City</item>
+        <item>48612|Beaverton</item>
+        <item>49355|Ada</item>
+        <item>49112|Edwardsburg</item>
+        <item>48860|Muir</item>
+        <item>48757|Reese</item>
+        <item>48094|Washington</item>
+        <item>49894|Wells</item>
+        <item>49864|Nahma</item>
+        <item>49427|Jamestown</item>
+        <item>48049|North Street</item>
+        <item>48882|Shaftsburg</item>
+        <item>48159|Maybee</item>
+        <item>49504|Grand Rapids</item>
+        <item>48186|Westland</item>
+        <item>48767|Unionville</item>
+        <item>48137|Gregory</item>
+        <item>49331|Lowell</item>
+        <item>48195|Southgate</item>
+        <item>49356|Ada</item>
+        <item>48922|Lansing</item>
+        <item>49254|Michigan Center</item>
+        <item>48152|Livonia</item>
+        <item>49085|Saint Joseph</item>
+        <item>48916|Lansing</item>
+        <item>48618|Coleman</item>
+        <item>49784|Kincheloe</item>
+        <item>48725|Caseville</item>
+        <item>49777|Presque Isle</item>
+        <item>49610|Acme</item>
+        <item>49248|Jasper</item>
+        <item>49619|Brethren</item>
+        <item>49327|Grant</item>
+        <item>48621|Fairview</item>
+        <item>48103|Ann Arbor</item>
+        <item>49747|Hubbard Lake</item>
+        <item>49060|Hickory Corners</item>
+        <item>48436|Gaines</item>
+        <item>49282|Somerset Center</item>
+        <item>49503|Grand Rapids</item>
+        <item>48457|Montrose</item>
+        <item>48040|Marysville</item>
+        <item>48307|Rochester</item>
+        <item>48607|Saginaw</item>
+        <item>48892|Webberville</item>
+        <item>48116|Brighton</item>
+        <item>49451|Ravenna</item>
+        <item>48191|Willis</item>
+        <item>49895|Wetmore</item>
+        <item>48816|Cohoctah</item>
+        <item>48705|Barton City</item>
+        <item>48225|Harper Woods</item>
+        <item>49761|Mullett Lake</item>
+        <item>49303|Bailey</item>
+        <item>49776|Posen</item>
+        <item>49871|Palmer</item>
+        <item>48219|Detroit</item>
+        <item>48707|Bay City</item>
+        <item>49419|Hamilton</item>
+        <item>49426|Hudsonville</item>
+        <item>49116|Lakeside</item>
+        <item>48849|Lake Odessa</item>
+        <item>48074|Smiths Creek</item>
+        <item>49863|Nadeau</item>
+        <item>49632|Falmouth</item>
+        <item>48615|Breckenridge</item>
+        <item>49505|Grand Rapids</item>
+        <item>49413|Fremont</item>
+        <item>48088|Warren</item>
+        <item>48183|Trenton</item>
+        <item>49404|Coopersville</item>
+        <item>49052|Fulton</item>
+        <item>48450|Lexington</item>
+        <item>48415|Birch Run</item>
+        <item>48908|Lansing</item>
+        <item>48888|Stanton</item>
+        <item>49043|Covert</item>
+        <item>48915|Lansing</item>
+        <item>49423|Holland</item>
+        <item>49639|Hersey</item>
+        <item>48382|Commerce Township</item>
+        <item>49008|Kalamazoo</item>
+        <item>49069|Marshall</item>
+        <item>48197|Ypsilanti</item>
+        <item>49636|Glen Arbor</item>
+        <item>48456|Minden City</item>
+        <item>48231|Detroit</item>
+        <item>48110|Azalia</item>
+        <item>48858|Mount Pleasant</item>
+        <item>48170|Plymouth</item>
+        <item>48071|Madison Heights</item>
+        <item>49878|Rapid River</item>
+        <item>48740|Harrisville</item>
+        <item>48185|Westland</item>
+        <item>48856|Middleton</item>
+        <item>49715|Brimley</item>
+        <item>48509|Burton</item>
+        <item>49779|Rogers City</item>
+        <item>49781|Saint Ignace</item>
+        <item>49792|Tower</item>
+        <item>48863|Oak Grove</item>
+        <item>49791|Topinabee</item>
+        <item>49721|Cheboygan</item>
+        <item>49284|Springport</item>
+        <item>48896|Winn</item>
+        <item>48080|Saint Clair Shores</item>
+        <item>49062|Kendall</item>
+        <item>49743|Hawks</item>
+        <item>49969|Watersmeet</item>
+        <item>49611|Alba</item>
+        <item>48288|Detroit</item>
+        <item>49518|Grand Rapids</item>
+        <item>48426|Decker</item>
+        <item>49241|Hanover</item>
+        <item>48069|Pleasant Ridge</item>
+        <item>49922|Dollar Bay</item>
+        <item>49346|Stanwood</item>
+        <item>49728|Eckerman</item>
+        <item>49656|Luther</item>
+        <item>49036|Coldwater</item>
+        <item>48760|Silverwood</item>
+        <item>49684|Traverse City</item>
+        <item>49281|Somerset</item>
+        <item>48179|South Rockwood</item>
+        <item>48918|Lansing</item>
+        <item>48846|Ionia</item>
+        <item>49335|Moline</item>
+        <item>49079|Paw Paw</item>
+        <item>48875|Portland</item>
+        <item>48190|Whittaker</item>
+        <item>48420|Clio</item>
+        <item>49651|Lake City</item>
+        <item>49795|Vanderbilt</item>
+        <item>48009|Birmingham</item>
+        <item>49026|Bloomingdale</item>
+        <item>48754|Owendale</item>
+        <item>48872|Perry</item>
+        <item>48348|Clarkston</item>
+        <item>48093|Warren</item>
+        <item>48502|Flint</item>
+        <item>49449|Pentwater</item>
+        <item>49227|Allen</item>
+        <item>49097|Vicksburg</item>
+        <item>49264|Onondaga</item>
+        <item>49058|Hastings</item>
+        <item>49626|Eastlake</item>
+        <item>49649|Kingsley</item>
+        <item>49410|Fountain</item>
+        <item>48278|Detroit</item>
+        <item>48842|Holt</item>
+        <item>49422|Holland</item>
+        <item>48428|Dryden</item>
+        <item>48356|Highland</item>
+        <item>48635|Lupton</item>
+        <item>48092|Warren</item>
+        <item>49838|Gould City</item>
+        <item>48255|Detroit</item>
+        <item>49255|Montgomery</item>
+        <item>49033|Ceresco</item>
+        <item>49128|Three Oaks</item>
+        <item>49740|Harbor Springs</item>
+        <item>48464|Otter Lake</item>
+        <item>49001|Kalamazoo</item>
+        <item>48303|Bloomfield Hills</item>
+        <item>48314|Sterling Heights</item>
+        <item>48747|Munger</item>
+        <item>48649|Oakley</item>
+        <item>48980|Lansing</item>
+        <item>49307|Big Rapids</item>
+        <item>48822|Eagle</item>
+        <item>49405|Custer</item>
+        <item>48120|Dearborn</item>
+        <item>49550|Grand Rapids</item>
+        <item>49753|Lachine</item>
+        <item>48674|Midland</item>
+        <item>48121|Dearborn</item>
+        <item>48091|Warren</item>
+        <item>48333|Farmington</item>
+        <item>48727|Clifford</item>
+        <item>48950|Lansing</item>
+        <item>48226|Detroit</item>
+        <item>48222|Detroit</item>
+        <item>49631|Evart</item>
+        <item>49916|Chassell</item>
+        <item>49429|Jenison</item>
+        <item>49030|Burr Oak</item>
+        <item>48642|Midland</item>
+        <item>49903|Amasa</item>
+        <item>48075|Southfield</item>
+        <item>49233|Cement City</item>
+        <item>48188|Canton</item>
+        <item>49744|Herron</item>
+        <item>49317|Cannonsburg</item>
+        <item>49646|Kalkaska</item>
+        <item>48277|Detroit</item>
+        <item>49515|Grand Rapids</item>
+        <item>48455|Metamora</item>
+        <item>49279|Sand Creek</item>
+        <item>49822|Deerton</item>
+        <item>49005|Kalamazoo</item>
+        <item>48741|Kingston</item>
+        <item>49963|South Range</item>
+        <item>48867|Owosso</item>
+        <item>48879|Saint Johns</item>
+        <item>49683|Thompsonville</item>
+        <item>49332|Mecosta</item>
+        <item>49115|Harbert</item>
+        <item>49738|Grayling</item>
+        <item>48336|Farmington</item>
+        <item>49780|Rudyard</item>
+        <item>49726|Drummond Island</item>
+        <item>49094|Union City</item>
+        <item>49028|Bronson</item>
+        <item>48622|Farwell</item>
+        <item>48374|Novi</item>
+        <item>49009|Kalamazoo</item>
+        <item>48081|Saint Clair Shores</item>
+        <item>49306|Belmont</item>
+        <item>48876|Potterville</item>
+        <item>49696|Traverse City</item>
+        <item>49249|Jerome</item>
+        <item>48357|Highland</item>
+        <item>48817|Corunna</item>
+        <item>49677|Reed City</item>
+        <item>49873|Perronville</item>
+        <item>49411|Free Soil</item>
+        <item>49510|Grand Rapids</item>
+        <item>48911|Lansing</item>
+        <item>48851|Lyons</item>
+        <item>49106|Bridgman</item>
+        <item>49769|Pellston</item>
+        <item>49629|Elk Rapids</item>
+        <item>48438|Goodrich</item>
+        <item>49534|Grand Rapids</item>
+        <item>49039|Hagar Shores</item>
+        <item>48268|Detroit</item>
+        <item>48421|Columbiaville</item>
+        <item>49764|Oden</item>
+        <item>49962|Skanee</item>
+        <item>49104|Berrien Springs</item>
+        <item>48529|Burton</item>
+        <item>48198|Ypsilanti</item>
+        <item>49834|Foster City</item>
+        <item>49345|Sparta</item>
+        <item>49240|Grass Lake</item>
+        <item>48755|Pigeon</item>
+        <item>49126|Sodus</item>
+        <item>49087|Schoolcraft</item>
+        <item>49709|Atlanta</item>
+        <item>48090|Warren</item>
+        <item>49421|Hesperia</item>
+        <item>49061|Jones</item>
+        <item>48242|Detroit</item>
+        <item>49616|Benzonia</item>
+        <item>48758|Richville</item>
+        <item>48806|Ashley</item>
+        <item>48414|Bancroft</item>
+        <item>48244|Detroit</item>
+        <item>49129|Union Pier</item>
+        <item>49319|Cedar Springs</item>
+        <item>48328|Waterford</item>
+        <item>49425|Holton</item>
+        <item>49686|Traverse City</item>
+        <item>49120|Niles</item>
+        <item>48205|Detroit</item>
+        <item>48913|Lansing</item>
+        <item>48626|Hemlock</item>
+        <item>48212|Hamtramck</item>
+        <item>49775|Pointe Aux Pins</item>
+        <item>48265|Detroit</item>
+        <item>48662|Wheeler</item>
+        <item>49443|Muskegon</item>
+        <item>48359|Lake Orion</item>
+        <item>49676|Rapid City</item>
+        <item>48145|La Salle</item>
+        <item>48167|Northville</item>
+        <item>49812|Carney</item>
+        <item>48861|Mulliken</item>
+        <item>49339|Pierson</item>
+        <item>48206|Detroit</item>
+        <item>49739|Grayling</item>
+        <item>48820|Dewitt</item>
+        <item>48877|Riverdale</item>
+        <item>48937|Lansing</item>
+        <item>49653|Lake Leelanau</item>
+        <item>48329|Waterford</item>
+        <item>48381|Milford</item>
+        <item>49088|Scotts</item>
+        <item>49445|Muskegon</item>
+        <item>48933|Lansing</item>
+        <item>49927|Gaastra</item>
+        <item>48264|Detroit</item>
+        <item>48821|Dimondale</item>
+        <item>48708|Bay City</item>
+        <item>48176|Saline</item>
+        <item>48468|Port Hope</item>
+        <item>49019|Kalamazoo</item>
+        <item>48519|Burton</item>
+        <item>48062|Richmond</item>
+        <item>49409|Ferrysburg</item>
+        <item>49221|Adrian</item>
+        <item>49874|Powers</item>
+        <item>48042|Macomb</item>
+        <item>48015|Center Line</item>
+        <item>49459|Walkerville</item>
+        <item>48730|East Tawas</item>
+        <item>49967|Trout Creek</item>
+        <item>48440|Hadley</item>
+        <item>48218|River Rouge</item>
+        <item>48880|Saint Louis</item>
+        <item>49238|Deerfield</item>
+        <item>49265|Onsted</item>
+        <item>49727|East Jordan</item>
+        <item>49065|Lawton</item>
+        <item>49509|Wyoming</item>
+        <item>49127|Stevensville</item>
+        <item>48095|Washington</item>
+        <item>48144|Lambertville</item>
+        <item>49729|Ellsworth</item>
+        <item>49921|Dodgeville</item>
+        <item>49783|Sault Sainte Marie</item>
+        <item>48054|East China</item>
+        <item>49841|Gwinn</item>
+        <item>48227|Detroit</item>
+        <item>49072|Mendon</item>
+        <item>48531|Flint</item>
+        <item>49102|Berrien Center</item>
+        <item>48829|Edmore</item>
+        <item>48661|West Branch</item>
+        <item>48728|Curran</item>
+        <item>48324|West Bloomfield</item>
+        <item>49588|Grand Rapids</item>
+        <item>48168|Northville</item>
+        <item>48834|Fenwick</item>
+        <item>48184|Wayne</item>
+        <item>49796|Walloon Lake</item>
+        <item>49881|Sagola</item>
+        <item>48363|Oakland</item>
+        <item>48550|Flint</item>
+        <item>49612|Alden</item>
+        <item>48807|Bannister</item>
+        <item>48886|Six Lakes</item>
+        <item>48418|Byron</item>
+        <item>49020|Bedford</item>
+        <item>48830|Elm Hall</item>
+        <item>49091|Sturgis</item>
+        <item>49403|Conklin</item>
+        <item>48503|Flint</item>
+        <item>49458|Walhalla</item>
+        <item>49245|Homer</item>
+        <item>49637|Grawn</item>
+        <item>48611|Auburn</item>
+        <item>49950|Mohawk</item>
+        <item>48377|Novi</item>
+        <item>48873|Pewamo</item>
+        <item>49323|Dorr</item>
+        <item>48214|Detroit</item>
+        <item>49759|Millersburg</item>
+        <item>48506|Flint</item>
+        <item>49015|Battle Creek</item>
+        <item>49047|Dowagiac</item>
+        <item>48177|Samaria</item>
+        <item>48606|Saginaw</item>
+        <item>49256|Morenci</item>
+        <item>49006|Kalamazoo</item>
+        <item>48847|Ithaca</item>
+        <item>49826|Rumely</item>
+        <item>48223|Detroit</item>
+        <item>49760|Moran</item>
+        <item>48036|Clinton Township</item>
+        <item>49736|Goetzville</item>
+        <item>48112|Belleville</item>
+        <item>49236|Clinton</item>
+        <item>49765|Onaway</item>
+        <item>49007|Kalamazoo</item>
+        <item>48275|Detroit</item>
+        <item>49725|De Tour Village</item>
+        <item>48178|South Lyon</item>
+        <item>48135|Garden City</item>
+        <item>49735|Gaylord</item>
+        <item>49003|Kalamazoo</item>
+        <item>48234|Detroit</item>
+        <item>48460|New Lothrop</item>
+        <item>49269|Parma</item>
+        <item>48390|Walled Lake</item>
+        <item>48187|Canton</item>
+        <item>49070|Martin</item>
+        <item>49107|Buchanan</item>
+        <item>49840|Gulliver</item>
+        <item>49304|Baldwin</item>
+        <item>49723|Cross Village</item>
+        <item>49450|Pullman</item>
+        <item>49644|Irons</item>
+        <item>48041|Memphis</item>
+        <item>48133|Erie</item>
+        <item>49078|Otsego</item>
+        <item>49041|Comstock</item>
+        <item>49004|Kalamazoo</item>
+        <item>49720|Charlevoix</item>
+        <item>48065|Romeo</item>
+        <item>49074|Nazareth</item>
+        <item>49705|Afton</item>
+        <item>49040|Colon</item>
+        <item>49751|Johannesburg</item>
+        <item>49271|Pittsford</item>
+        <item>49301|Ada</item>
+        <item>49643|Interlochen</item>
+        <item>49071|Mattawan</item>
+        <item>48025|Franklin</item>
+        <item>48220|Ferndale</item>
+        <item>48014|Capac</item>
+        <item>49508|Grand Rapids</item>
+        <item>49456|Spring Lake</item>
+        <item>49326|Gowen</item>
+        <item>48651|Prudenville</item>
+        <item>49917|Copper City</item>
+        <item>49866|Negaunee</item>
+        <item>49912|Bruce Crossing</item>
+        <item>48625|Harrison</item>
+        <item>48111|Belleville</item>
+        <item>49525|Grand Rapids</item>
+        <item>48410|Argyle</item>
+        <item>48883|Shepherd</item>
+        <item>48012|Birmingham</item>
+        <item>48435|Fostoria</item>
+        <item>48750|Oscoda</item>
+        <item>49657|Mc Bain</item>
+        <item>49825|Eben Junction</item>
+        <item>49622|Central Lake</item>
+        <item>48836|Fowlerville</item>
+        <item>49440|Muskegon</item>
+        <item>48032|Jeddo</item>
+        <item>49084|Riverside</item>
+        <item>49872|Perkins</item>
+        <item>48623|Freeland</item>
+        <item>48809|Belding</item>
+        <item>48417|Burt</item>
+        <item>49266|Osseo</item>
+        <item>49667|Merritt</item>
+        <item>48034|Southfield</item>
+        <item>48801|Alma</item>
+        <item>49434|Macatawa</item>
+        <item>49896|Wilson</item>
+        <item>49817|Cooks</item>
+        <item>49666|Mayfield</item>
+        <item>49023|Benton Harbor</item>
+        <item>49617|Beulah</item>
+        <item>49435|Marne</item>
+        <item>48182|Temperance</item>
+        <item>48371|Oxford</item>
+        <item>49253|Manitou Beach</item>
+        <item>48427|Deckerville</item>
+        <item>49835|Garden</item>
+        <item>49099|White Pigeon</item>
+        <item>49455|Shelby</item>
+        <item>49034|Climax</item>
+        <item>49668|Mesick</item>
+        <item>48749|Omer</item>
+        <item>48423|Davison</item>
+        <item>48318|Utica</item>
+        <item>48454|Melvin</item>
+        <item>49050|Dowling</item>
+        <item>48620|Edenville</item>
+        <item>49038|Coloma</item>
+        <item>49056|Grand Junction</item>
+        <item>49310|Blanchard</item>
+        <item>48086|Southfield</item>
+        <item>48724|Carrollton</item>
+        <item>49228|Blissfield</item>
+        <item>48930|Lansing</item>
+        <item>49663|Manton</item>
+        <item>49901|Ahmeek</item>
+        <item>49021|Bellevue</item>
+        <item>49415|Fruitport</item>
+        <item>49468|Grandville</item>
+        <item>49599|Grand Rapids</item>
+        <item>49837|Gladstone</item>
+        <item>48859|Mount Pleasant</item>
+        <item>49910|Bergland</item>
+        <item>48878|Rosebush</item>
+        <item>48919|Lansing</item>
+        <item>48921|Lansing</item>
+        <item>48555|Flint</item>
+        <item>48067|Royal Oak</item>
+        <item>49929|Greenland</item>
+        <item>49628|Elberta</item>
+        <item>48272|Detroit</item>
+        <item>49853|Mc Millan</item>
+        <item>49267|Ottawa Lake</item>
+        <item>48397|Warren</item>
+        <item>49674|Omena</item>
+        <item>48211|Detroit</item>
+        <item>48552|Flint</item>
+        <item>49417|Grand Haven</item>
+        <item>49673|Old Mission</item>
+        <item>48889|Sumner</item>
+        <item>48434|Forestville</item>
+        <item>49092|Tekonsha</item>
+        <item>48439|Grand Blanc</item>
+        <item>49117|New Buffalo</item>
+        <item>48047|New Baltimore</item>
+        <item>49774|Pickford</item>
+        <item>49325|Freeport</item>
+        <item>48122|Melvindale</item>
+        <item>49424|Holland</item>
+        <item>49321|Comstock Park</item>
+        <item>48881|Saranac</item>
+        <item>48164|New Boston</item>
+        <item>48556|Flint</item>
+        <item>49315|Byron Center</item>
+        <item>49633|Fife Lake</item>
+        <item>49737|Good Hart</item>
+        <item>48743|Long Lake</item>
+        <item>48686|Midland</item>
+        <item>49953|Ontonagon</item>
+        <item>48207|Detroit</item>
+        <item>49431|Ludington</item>
+        <item>49689|Wellston</item>
+        <item>49276|Riga</item>
+        <item>48732|Essexville</item>
+        <item>49847|Hermansville</item>
+        <item>49045|Decatur</item>
+        <item>49442|Muskegon</item>
+        <item>48189|Whitmore Lake</item>
+        <item>48279|Detroit</item>
+        <item>48862|North Star</item>
+        <item>49919|Covington</item>
+        <item>49096|Vermontville</item>
+        <item>48504|Flint</item>
+        <item>49204|Jackson</item>
+        <item>48213|Detroit</item>
+        <item>49103|Berrien Springs</item>
+        <item>49880|Rock</item>
+        <item>49839|Grand Marais</item>
+        <item>48735|Gagetown</item>
+        <item>48656|Saint Helen</item>
+        <item>49464|Zeeland</item>
+        <item>48320|Keego Harbor</item>
+        <item>48554|Flint</item>
+        <item>49012|Augusta</item>
+        <item>48366|Lakeville</item>
+        <item>48125|Dearborn Heights</item>
+        <item>49068|Marshall</item>
+        <item>49002|Portage</item>
+        <item>49333|Middleville</item>
+        <item>49961|Sidnaw</item>
+        <item>49457|Twin Lake</item>
+        <item>49261|Napoleon</item>
+        <item>48037|Southfield</item>
+        <item>49318|Casnovia</item>
+        <item>49690|Williamsburg</item>
+        <item>49453|Saugatuck</item>
+        <item>49829|Escanaba</item>
+        <item>49722|Conway</item>
+        <item>49090|South Haven</item>
+        <item>49220|Addison</item>
+        <item>48033|Southfield</item>
+        <item>49816|Chatham</item>
+        <item>49014|Battle Creek</item>
+        <item>48632|Lake</item>
+        <item>48470|Ruth</item>
+        <item>48432|Filion</item>
+        <item>49322|Coral</item>
+        <item>49913|Calumet</item>
+        <item>48825|East Lansing</item>
+        <item>49965|Toivola</item>
+        <item>48765|Turner</item>
+        <item>49734|Gaylord</item>
+        <item>48127|Dearborn Heights</item>
+        <item>48465|Palms</item>
+        <item>48736|Gilford</item>
+        <item>48473|Swartz Creek</item>
+        <item>48030|Hazel Park</item>
+        <item>48346|Clarkston</item>
+        <item>49970|Watton</item>
+        <item>48124|Dearborn</item>
+        <item>48341|Pontiac</item>
+        <item>48321|Auburn Hills</item>
+        <item>48831|Elsie</item>
+        <item>48854|Mason</item>
+        <item>49283|Spring Arbor</item>
+        <item>48330|Drayton Plains</item>
+        <item>49230|Brooklyn</item>
+        <item>48360|Lake Orion</item>
+        <item>48007|Troy</item>
+        <item>48634|Linwood</item>
+        <item>49675|Onekama</item>
+        <item>49242|Hillsdale</item>
+        <item>49762|Naubinway</item>
+        <item>48956|Lansing</item>
+        <item>48505|Flint</item>
+        <item>49879|Republic</item>
+        <item>48827|Eaton Rapids</item>
+        <item>48099|Troy</item>
+        <item>48386|White Lake</item>
+        <item>48738|Greenbush</item>
+        <item>49093|Three Rivers</item>
+        <item>49793|Trout Lake</item>
+        <item>48629|Houghton Lake</item>
+        <item>49051|East Leroy</item>
+        <item>49946|Lanse</item>
+        <item>49080|Plainwell</item>
+        <item>48769|Tuscola</item>
+        <item>48174|Romulus</item>
+        <item>49348|Wayland</item>
+        <item>49680|South Boardman</item>
+        <item>49623|Chase</item>
+        <item>49288|Waldron</item>
+        <item>48343|Pontiac</item>
+        <item>49645|Kaleva</item>
+        <item>48098|Troy</item>
+        <item>49063|Lacota</item>
+        <item>49341|Rockford</item>
+        <item>49544|Grand Rapids</item>
+        <item>49755|Levering</item>
+        <item>49852|Loretto</item>
+        <item>49947|Marenisco</item>
+        <item>49640|Honor</item>
+        <item>49309|Bitely</item>
+        <item>49018|Battle Creek</item>
+        <item>49314|Burnips</item>
+        <item>48238|Detroit</item>
+        <item>48613|Bentley</item>
+        <item>49237|Concord</item>
+        <item>48193|Riverview</item>
+        <item>48731|Elkton</item>
+        <item>49048|Kalamazoo</item>
+        <item>49101|Baroda</item>
+        <item>48046|Mount Clemens</item>
+        <item>49013|Bangor</item>
+        <item>48823|East Lansing</item>
+        <item>48631|Kawkawlin</item>
+        <item>48442|Holly</item>
+        <item>49268|Palmyra</item>
+        <item>48766|Twining</item>
+        <item>49446|New Era</item>
+        <item>48202|Detroit</item>
+        <item>48469|Port Sanilac</item>
+        <item>49441|Muskegon</item>
+        <item>48824|East Lansing</item>
+        <item>48710|University Center</item>
+        <item>48239|Redford</item>
+        <item>49024|Portage</item>
+        <item>49618|Boon</item>
+        <item>49336|Morley</item>
+        <item>49971|White Pine</item>
+        <item>48653|Roscommon</item>
+        <item>49712|Boyne City</item>
+        <item>48604|Saginaw</item>
+        <item>48449|Lennon</item>
+        <item>48161|Monroe</item>
+        <item>49786|Kincheloe</item>
+        <item>48416|Brown City</item>
+        <item>48865|Orleans</item>
+        <item>49119|New Troy</item>
+        <item>49807|Bark River</item>
+        <item>49849|Ishpeming</item>
+        <item>48175|Salem</item>
+        <item>49855|Marquette</item>
+        <item>49338|Paris</item>
+        <item>49229|Britton</item>
+        <item>49877|Ralph</item>
+        <item>48367|Leonard</item>
+        <item>48267|Detroit</item>
+        <item>48551|Flint</item>
+        <item>48638|Saginaw</item>
+        <item>49548|Grand Rapids</item>
+        <item>49831|Felch</item>
+        <item>48393|Wixom</item>
+        <item>48380|Milford</item>
+        <item>48269|Detroit</item>
+        <item>49670|Northport</item>
+        <item>49868|Newberry</item>
+        <item>48929|Lansing</item>
+        <item>48302|Bloomfield Hills</item>
+        <item>48039|Marine City</item>
+        <item>48833|Eureka</item>
+        <item>48737|Glennie</item>
+        <item>49016|Battle Creek</item>
+        <item>49893|Wallace</item>
+        <item>48501|Flint</item>
+        <item>48433|Flushing</item>
+        <item>49820|Curtis</item>
+        <item>48721|Black River</item>
+        <item>48083|Troy</item>
+        <item>49055|Gobles</item>
+        <item>49802|Kingsford</item>
+        <item>48746|Millington</item>
+        <item>48451|Linden</item>
+        <item>48458|Mount Morris</item>
+        <item>49876|Quinnesec</item>
+        <item>49083|Richland</item>
+        <item>49635|Frankfort</item>
+        <item>49955|Painesdale</item>
+        <item>48874|Pompeii</item>
+        <item>49615|Bellaire</item>
+        <item>49311|Bradley</item>
+        <item>48429|Durand</item>
+        <item>49239|Frontier</item>
+        <item>49601|Cadillac</item>
+        <item>48021|Eastpointe</item>
+        <item>48166|Newport</item>
+        <item>49017|Battle Creek</item>
+        <item>48138|Grosse Ile</item>
+        <item>49077|Oshtemo</item>
+        <item>49287|Tipton</item>
+        <item>49848|Ingalls</item>
+        <item>48308|Rochester</item>
+        <item>48310|Sterling Heights</item>
+        <item>49337|Newaygo</item>
+        <item>48311|Sterling Heights</item>
+        <item>48472|Snover</item>
+        <item>49064|Lawrence</item>
+        <item>48461|North Branch</item>
+        <item>49257|Moscow</item>
+        <item>48762|Spruce</item>
+        <item>49089|Sherwood</item>
+        <item>48082|Saint Clair Shores</item>
+        <item>49818|Cornell</item>
+        <item>49808|Big Bay</item>
+        <item>48126|Dearborn</item>
+        <item>48216|Detroit</item>
+        <item>49711|Bay Shore</item>
+        <item>48232|Detroit</item>
+        <item>48209|Detroit</item>
+        <item>49945|Lake Linden</item>
+        <item>48663|Saginaw</item>
+        <item>49902|Alpha</item>
+        <item>48105|Ann Arbor</item>
+        <item>48332|Farmington</item>
+        <item>48866|Ovid</item>
+        <item>49250|Jonesville</item>
+        <item>48628|Hope</item>
+        <item>48217|Detroit</item>
+        <item>49660|Manistee</item>
+        <item>48309|Rochester</item>
+        <item>48215|Detroit</item>
+        <item>48353|Hartland</item>
+        <item>48901|Lansing</item>
+        <item>48169|Pinckney</item>
+        <item>48603|Saginaw</item>
+        <item>48335|Farmington</item>
+        <item>49027|Breedsville</item>
+        <item>48722|Bridgeport</item>
+        <item>48897|Woodland</item>
+        <item>49010|Allegan</item>
+        <item>49785|Kincheloe</item>
+        <item>49042|Constantine</item>
+        <item>49886|Spalding</item>
+        <item>48761|South Branch</item>
+        <item>48068|Royal Oak</item>
+        <item>49948|Mass City</item>
+        <item>49302|Alto</item>
+        <item>48072|Berkley</item>
+        <item>48654|Rose City</item>
+        <item>48180|Taylor</item>
+        <item>49883|Seney</item>
+        <item>48818|Crystal</item>
+        <item>49420|Hart</item>
+        <item>48787|Frankenmuth</item>
+        <item>48106|Ann Arbor</item>
+        <item>48891|Vestaburg</item>
+        <item>48023|Fair Haven</item>
+        <item>48128|Dearborn</item>
+        <item>48885|Sidney</item>
+        <item>49827|Engadine</item>
+        <item>49401|Allendale</item>
+        <item>49718|Carp Lake</item>
+        <item>49885|Skandia</item>
+        <item>49862|Munising</item>
+        <item>48917|Lansing</item>
+        <item>48657|Sanford</item>
+        <item>48096|Ray</item>
+        <item>49289|Weston</item>
+        <item>49799|Wolverine</item>
+        <item>48870|Palo</item>
+        <item>49892|Vulcan</item>
+        <item>48624|Gladwin</item>
+        <item>48230|Grosse Pointe</item>
+        <item>48073|Royal Oak</item>
+        <item>49905|Atlantic Mine</item>
+        <item>49402|Branch</item>
+        <item>49130|Union</item>
+        <item>48201|Detroit</item>
+        <item>49854|Manistique</item>
+        <item>49620|Buckley</item>
+        <item>48160|Milan</item>
+        <item>49512|Grand Rapids</item>
+        <item>48315|Utica</item>
+        <item>49340|Remus</item>
+        <item>49330|Kent City</item>
+        <item>49075|Nottawa</item>
+        <item>48703|Au Gres</item>
+        <item>48401|Applegate</item>
+        <item>48387|Union Lake</item>
+        <item>48617|Clare</item>
+        <item>49870|Norway</item>
+        <item>49022|Benton Harbor</item>
+        <item>48744|Mayville</item>
+        <item>48104|Ann Arbor</item>
+        <item>48819|Dansville</item>
+        <item>48240|Redford</item>
+        <item>48641|Midland</item>
+        <item>48117|Carleton</item>
+        <item>48832|Elwell</item>
+        <item>49444|Muskegon</item>
+        <item>49682|Suttons Bay</item>
+        <item>49032|Centreville</item>
+        <item>48131|Dundee</item>
+        <item>49066|Leonidas</item>
+        <item>48430|Fenton</item>
+        <item>49416|Glenn</item>
+        <item>49935|Iron River</item>
+        <item>49082|Quincy</item>
+        <item>49797|Waters</item>
+        <item>48467|Port Austin</item>
+        <item>48768|Vassar</item>
+        <item>48804|Mount Pleasant</item>
+        <item>48153|Livonia</item>
+        <item>49555|Grand Rapids</item>
+        <item>49349|White Cloud</item>
+        <item>48221|Detroit</item>
+        <item>48446|Lapeer</item>
+        <item>49819|Arnold</item>
+        <item>48413|Bad Axe</item>
+        <item>49770|Petoskey</item>
+        <item>49270|Petersburg</item>
+        <item>48658|Standish</item>
+        <item>48301|Bloomfield Hills</item>
+        <item>49621|Cedar</item>
+        <item>49316|Caledonia</item>
+        <item>49648|Kewadin</item>
+        <item>48317|Utica</item>
+        <item>49516|Grand Rapids</item>
+        <item>48050|New Haven</item>
+        <item>49719|Cedarville</item>
+        <item>49942|Kearsarge</item>
+        <item>49418|Grandville</item>
+        <item>48475|Ubly</item>
+        <item>48605|Saginaw</item>
+        <item>49454|Scottville</item>
+        <item>49523|Grand Rapids</item>
+        <item>48143|Lakeland</item>
+        <item>49833|Little Lake</item>
+        <item>48316|Utica</item>
+        <item>48002|Allenton</item>
+        <item>48059|Fort Gratiot</item>
+        <item>49915|Caspian</item>
+        <item>48633|Lake George</item>
+        <item>49528|Grand Rapids</item>
+        <item>48140|Ida</item>
+        <item>49235|Clayton</item>
+        <item>48894|Westphalia</item>
+        <item>48667|Midland</item>
+        <item>48745|Mikado</item>
+        <item>48340|Pontiac</item>
+        <item>49098|Watervliet</item>
+        <item>49749|Indian River</item>
+        <item>48085|Troy</item>
+        <item>49679|Sears</item>
+        <item>48362|Lake Orion</item>
+        <item>48614|Brant</item>
+        <item>49630|Empire</item>
+        <item>48445|Kinde</item>
+        <item>49203|Jackson</item>
+        <item>49076|Olivet</item>
+        <item>49654|Leland</item>
+        <item>48151|Livonia</item>
+
+
+    </string-array>
+</resources>

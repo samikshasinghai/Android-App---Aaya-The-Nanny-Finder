@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context=".Nannies"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/toolbar"/>
+
+
+    <ListView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/nannyList"
+        android:descendantFocusability="blocksDescendants"
+        android:padding="10dp"
+        android:divider="@color/black"
+        android:dividerHeight="4px">
+    </ListView>
+
+</LinearLayout>
